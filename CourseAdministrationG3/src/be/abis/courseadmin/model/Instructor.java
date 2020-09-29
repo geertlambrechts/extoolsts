@@ -17,7 +17,7 @@ public class Instructor {
 		this.lastName = lastName;
 		this.birthday = birthday;
 		if (ageStarted < 0) {
-			throw new AgeCannotBeNegativeException();
+			throw new AgeCannotBeNegativeException("Instructor " + firstName + " " + lastName + " has a negative ageStarted : " + ageStarted );
 		}
 		this.ageStarted = ageStarted;
 		this.salaryStarted = salaryStarted;		

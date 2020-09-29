@@ -28,8 +28,8 @@ public class TestCourseadmin {
 			System.out.println(e.getMessage());
 		}
 		catch (AgeCannotBeNegativeException e) {
-			System.out.println("ageStarted can not be negative");
 			System.out.println(e.getMessage());
+			System.out.println("nothing written : correct your input and try again");
 		}
 	}
 }
