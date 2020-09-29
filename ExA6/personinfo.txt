@@ -1,0 +1,2 @@
+Person1:Ann Smits(35 years old) works for ABIS in Leuven
+Person2:John Doe(54 years old) is not employed for the moment
