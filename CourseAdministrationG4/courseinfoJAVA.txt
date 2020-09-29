@@ -1,0 +1,16 @@
+The JAVA course takes 10 days and costs 6050.0 euros. 
+Prior knowledge required: false
+That price is EXPENSIVE
+There are 2 instructors for this course:
+InstructorData
+  firstName     : Geert
+  lastName      : Lambrechts
+  birthday      : 1920-05-10
+  ageStarted    : 16
+  salaryStarted : 1000.0
+InstructorData
+  firstName     : Sandy
+  lastName      : Example
+  birthday      : 2000-05-10
+  ageStarted    : 23
+  salaryStarted : 2000.0
