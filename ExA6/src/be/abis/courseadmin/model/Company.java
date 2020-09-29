@@ -1,4 +1,4 @@
-package be.abis.courseadmin.exA6;
+package be.abis.courseadmin.model;
 
 public class Company {
 	String name;

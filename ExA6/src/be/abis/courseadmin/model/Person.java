@@ -1,6 +1,7 @@
-package be.abis.courseadmin.exA6;
+package be.abis.courseadmin.model;
 
 import java.time.LocalDate;
+import java.time.Period;
 
 public class Person {
 	int personNumber;
@@ -10,16 +11,15 @@ public class Person {
 	Company company;
 
 	public Person(int personNumber, String firstName, String lastName, LocalDate birthdate, Company company) {
-		super();
-		this.personNumber = personNumber;
-		this.firstName = firstName;
-		this.lastName = lastName;
-		this.birthdate = birthdate;
+		this(personNumber, firstName, lastName, birthdate);
 		this.company = company;
 	}
 
 	public Person(int personNumber, String firstName, String lastName, LocalDate birthdate) {
-		this(personNumber, firstName, lastName, birthdate, null);
+		this.personNumber = personNumber;
+		this.firstName = firstName;
+		this.lastName = lastName;
+		this.birthdate = birthdate;	
 	}
 
 	public int getPersonNumber() {
@@ -75,6 +75,7 @@ public class Person {
 	}
 
 	public int calculateAge() {
-		return LocalDate.now().getYear() - birthdate.getYear();
+		Period p = Period.between(birthdate, LocalDate.now());
+		return p.getYears();
 	}
 }
