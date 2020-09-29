@@ -1,0 +1,100 @@
+Salary of Geert at 16 is 1000.0
+Salary of Geert at 21 is 1030.0
+Salary of Geert at 26 is 1060.9
+Salary of Geert at 31 is 1092.727
+Salary of Geert at 36 is 1125.50881
+Salary of Geert at 41 is 1159.2740743000002
+Salary of Geert at 46 is 1194.0522965290002
+Salary of Geert at 51 is 1229.8738654248702
+Maximum Salary reached
+
+Salary of Sandy at 23 is 2000.0
+Salary of Sandy at 28 is 2060.0
+Salary of Sandy at 33 is 2121.8
+Salary of Sandy at 38 is 2185.454
+Salary of Sandy at 43 is 2251.01762
+Salary of Sandy at 48 is 2318.5481486000003
+Salary of Sandy at 53 is 2388.1045930580003
+Salary of Sandy at 58 is 2459.7477308497405
+Maximum Salary reached
+
+Salary of Geert at 16 is 1000.0
+Salary of Geert at 21 is 1030.0
+Salary of Geert at 26 is 1060.9
+Salary of Geert at 31 is 1092.727
+Salary of Geert at 36 is 1125.50881
+Salary of Geert at 41 is 1159.2740743000002
+Salary of Geert at 46 is 1194.0522965290002
+Salary of Geert at 51 is 1229.8738654248702
+Maximum Salary reached
+
+Salary of Sandy at 23 is 2000.0
+Salary of Sandy at 28 is 2060.0
+Salary of Sandy at 33 is 2121.8
+Salary of Sandy at 38 is 2185.454
+Salary of Sandy at 43 is 2251.01762
+Salary of Sandy at 48 is 2318.5481486000003
+Salary of Sandy at 53 is 2388.1045930580003
+Salary of Sandy at 58 is 2459.7477308497405
+Maximum Salary reached
+
+Salary of Geert at 16 is 1000.0
+Salary of Geert at 21 is 1030.0
+Salary of Geert at 26 is 1060.9
+Salary of Geert at 31 is 1092.727
+Salary of Geert at 36 is 1125.50881
+Salary of Geert at 41 is 1159.2740743000002
+Salary of Geert at 46 is 1194.0522965290002
+Salary of Geert at 51 is 1229.8738654248702
+Maximum Salary reached
+
+Salary of Sandy at 23 is 2000.0
+Salary of Sandy at 28 is 2060.0
+Salary of Sandy at 33 is 2121.8
+Salary of Sandy at 38 is 2185.454
+Salary of Sandy at 43 is 2251.01762
+Salary of Sandy at 48 is 2318.5481486000003
+Salary of Sandy at 53 is 2388.1045930580003
+Salary of Sandy at 58 is 2459.7477308497405
+Maximum Salary reached
+
+Salary of Geert at 16 is 1000.0
+Salary of Geert at 21 is 1030.0
+Salary of Geert at 26 is 1060.9
+Salary of Geert at 31 is 1092.727
+Salary of Geert at 36 is 1125.50881
+Salary of Geert at 41 is 1159.2740743000002
+Salary of Geert at 46 is 1194.0522965290002
+Salary of Geert at 51 is 1229.8738654248702
+Maximum Salary reached
+
+Salary of Sandy at 23 is 2000.0
+Salary of Sandy at 28 is 2060.0
+Salary of Sandy at 33 is 2121.8
+Salary of Sandy at 38 is 2185.454
+Salary of Sandy at 43 is 2251.01762
+Salary of Sandy at 48 is 2318.5481486000003
+Salary of Sandy at 53 is 2388.1045930580003
+Salary of Sandy at 58 is 2459.7477308497405
+Maximum Salary reached
+
+Salary of Geert at 16 is 1000.0
+Salary of Geert at 21 is 1030.0
+Salary of Geert at 26 is 1060.9
+Salary of Geert at 31 is 1092.727
+Salary of Geert at 36 is 1125.50881
+Salary of Geert at 41 is 1159.2740743000002
+Salary of Geert at 46 is 1194.0522965290002
+Salary of Geert at 51 is 1229.8738654248702
+Maximum Salary reached
+
+Salary of Sandy at 23 is 2000.0
+Salary of Sandy at 28 is 2060.0
+Salary of Sandy at 33 is 2121.8
+Salary of Sandy at 38 is 2185.454
+Salary of Sandy at 43 is 2251.01762
+Salary of Sandy at 48 is 2318.5481486000003
+Salary of Sandy at 53 is 2388.1045930580003
+Salary of Sandy at 58 is 2459.7477308497405
+Maximum Salary reached
+

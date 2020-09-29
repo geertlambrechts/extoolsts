@@ -1,0 +1,10 @@
+The HTML course takes 5 days and costs 2000.0 euros. 
+Prior knowledge required: true
+That price is EXPENSIVE
+There are 1 instructors for this course:
+InstructorData
+  firstName     : Piet
+  lastName      : Abis
+  age           : 30
+  ageStarted    : 20
+  salaryStarted : 5000.0
